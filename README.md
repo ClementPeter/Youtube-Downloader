@@ -22,10 +22,10 @@ Mobile App to download Videos from Youtube
 
 
 ## 📸 Screen shots
+ 
+ ![Screenshot_20221123-041728](https://user-images.githubusercontent.com/61213263/203464944-396823ff-19af-42c0-88eb-f1eca2fc7af8.png)
+![Screenshot_20221123-041826](https://user-images.githubusercontent.com/61213263/203464953-c385647e-09ec-41e6-bbc0-0b4bc92bf971.png)
 
-
- ![Screenshot_20221122-155308](https://user-images.githubusercontent.com/61213263/203463395-efeada44-dda1-4750-8886-41953c5698ee.png) 
- ![Screenshot_20221122-155338](https://user-images.githubusercontent.com/61213263/203463451-fb881a23-76e5-4034-981b-442ccc8ce6bf.png) 
 
 
 ## 🔌 Plugins
